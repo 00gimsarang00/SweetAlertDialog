@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SweetAlertDialog.iml" filepath="$PROJECT_DIR$/.idea/modules/SweetAlertDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.iml" filepath="$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SweetAlert/SweetAlertDialog.SweetAlert.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SweetAlertDialog.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

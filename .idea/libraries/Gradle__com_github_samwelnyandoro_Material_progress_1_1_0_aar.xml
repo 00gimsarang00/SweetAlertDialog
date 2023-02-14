@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.samwelnyandoro:Material-progress:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af7810a99398870e0396b0c1fc846937/transformed/jetified-Material-progress-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af7810a99398870e0396b0c1fc846937/transformed/jetified-Material-progress-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af7810a99398870e0396b0c1fc846937/transformed/jetified-Material-progress-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.samwelnyandoro/Material-progress/1.1.0/38055ef6d05748aad460bc74a69c2f2824b256fc/Material-progress-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
