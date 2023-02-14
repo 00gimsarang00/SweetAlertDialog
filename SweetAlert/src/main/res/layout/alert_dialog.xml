@@ -7,7 +7,7 @@
     android:gravity="center"
     android:layout_gravity="center"
     android:orientation="vertical"
-    android:backgroundTint="#3680D8"
+    android:backgroundTint="#193C71"
     android:background="@drawable/dialog_background"
     android:padding="10dp">
 
@@ -65,7 +65,7 @@
             android:id="@+id/mask_left"
             android:layout_width="21dp"
             android:layout_height="60dp"
-            android:layout_marginLeft="-3dp"
+            android:layout_marginStart="-3dp"
             android:layout_gravity="left"
             android:background="@android:color/white" />
 
