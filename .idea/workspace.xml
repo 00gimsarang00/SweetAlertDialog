@@ -12,11 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fa02c7-c5c0-4903-b38f-1671eda63291" name="Changes" comment="color changed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SweetAlert/src/main/res/layout/alert_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SweetAlert/src/main/res/layout/alert_dialog.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SweetAlert/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SweetAlert/src/main/res/values/colors.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a3fa02c7-c5c0-4903-b38f-1671eda63291" name="Changes" comment="sucess alert bug fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676393850199</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sucess alert bug fixed">
+      <created>1676477197998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676477197998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -154,6 +157,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="color changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="color changed" />
+    <MESSAGE value="sucess alert bug fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="sucess alert bug fixed" />
   </component>
 </project>
